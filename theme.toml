@@ -7,4 +7,5 @@ homepage = "https://github.com/mismith0227/hugo_theme_pickles/tree/release"
 source_repo = "git@github.com:mismith0227/hugo_theme_pickles.git"
 tags = ["Responsive", "Blog", "Google analytics", "Disqus", "Clean", "Tags", "Minimal", "Minimalist", "Simple", "White", "Starter"]
 features = ["blog"]
+theme = "hugo_theme_pickles"
 min_version = 0.27
